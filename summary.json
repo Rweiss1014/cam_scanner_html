@@ -1,0 +1,14 @@
+{
+  "url": "https://www.camscanner.com/pic-to-pdf",
+  "scraped_at": "2025-12-31T17:25:02.137697",
+  "pages_scraped": 52,
+  "images_found": 71,
+  "images_downloaded": 71,
+  "css_files_downloaded": 25,
+  "js_files_downloaded": 41,
+  "errors": 0,
+  "output_dir": "C:\\Website_AchairAffair\\scraper-app\\scrapes\\www.camscanner.com_1dabf4d4",
+  "folder_name": "www.camscanner.com_1dabf4d4",
+  "used_selenium": true,
+  "downloaded_assets": true
+}
